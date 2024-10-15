@@ -1,0 +1,7 @@
+1-first of copy url in this code.
+2-Open inspect of page.
+3- find what you need in this page. search in the tables, span and anchor.
+4- if your value in the span write the class name inside of this;"//span[@id='ctl00_MPane_m_976_12510_ctnr_m_976_12510_kupaMaclari_ctl01_lblTarih']"
+5- if your value in the anchor change span to a
+6- debug the code.
+7- Have a fund.
